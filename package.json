@@ -1,1 +1,9 @@
-npm init -y
+{
+  "name": "nodejs-project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"No tests specified\" && exit 1"
+  },
+  "dependencies": {}
+}
